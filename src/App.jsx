@@ -179,7 +179,7 @@ function App()
   return(
     <>
   
-<h1> this is clone before push</h1>
+
     <h1  style={{color:"red"}}>food items</h1>
     <ul>{listitems}</ul>
     <h1 style={{color:"brown"}}>veg items</h1>
