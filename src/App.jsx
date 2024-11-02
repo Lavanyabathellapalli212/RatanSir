@@ -179,6 +179,8 @@ function App()
   return(
     <>
   <h1>this is before push</h1>
+      <h1> this is after pull</h1>
+      <h2>modyfication code aftre push</h2>
 
     <h1  style={{color:"red"}}>food items</h1>
     <ul>{listitems}</ul>
